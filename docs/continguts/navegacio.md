@@ -6,12 +6,6 @@ sidebar_position: 7
 
 El lloc web té dos menús de navegació que pots gestionar des del panell d'administració.
 
-## Accedir al panell
-
-Ves a: **rafaelcreativo.com/adminet**
-
-Això et portarà al panell d'administració de Strapi.
-
 ## Els dos menús
 
 | Menú | On apareix | Ús |

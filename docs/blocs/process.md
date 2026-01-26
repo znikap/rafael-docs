@@ -7,7 +7,7 @@ sidebar_position: 6
 El bloc **Process** mostra targetes amb passos o fases del teu treball.
 
 :::info Disponibilitat
-Aquest bloc només està disponible a la **Pàgina de Portada**.
+Aquest bloc només està disponible a la **Front Page**.
 :::
 
 ## Camps

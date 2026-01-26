@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Pàgina de Portada
+# Front Page
 
 La **Portada** (Front Page) és la pàgina principal del lloc web. Només n'hi ha una.
 

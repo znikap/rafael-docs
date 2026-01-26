@@ -3,9 +3,9 @@ sidebar_position: 1
 slug: /
 ---
 
-# Benvingut a la Guia
+# Rafael Docs
 
-Aquesta documentació t'ajudarà a gestionar el contingut del teu lloc web **Rafael**.
+Aquesta documentació t'ajudarà a gestionar el contingut del teu lloc web [**Rafael**](https://rafael.cat/).
 
 ## Què pots fer?
 
@@ -22,7 +22,7 @@ Des del panell d'administració (Strapi) pots:
 
 Per accedir al panell d'administració:
 
-1. Ves a: **[rafaelcreativo.com/adminet](https://rafaelcreativo.com/adminet)**
+1. Ves a: **[rafael.cat/adminet](https://rafael.cat/adminet)**
 2. Inicia sessió amb les teves credencials
 3. Veuràs el panell principal amb totes les opcions
 
