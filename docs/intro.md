@@ -37,6 +37,7 @@ El teu lloc web utilitza dos tipus de contingut:
 
 ## Pròxims passos
 
+- [Infraestructura](./infraestructura) - On està allotjat tot
 - [Com crear i editar pàgines](./continguts/pagines)
 - [Gestionar projectes](./continguts/projectes)
 - [Menú de navegació](./continguts/navegacio)
