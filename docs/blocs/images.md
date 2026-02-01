@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Bloc Images (Galeria)
+# Images
 
 El bloc **Images** permet mostrar d'1 a 3 imatges en una graella.
 

@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Blocs de Serveis
+# Services
 
 Hi ha dos blocs per mostrar serveis:
 

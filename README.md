@@ -22,7 +22,7 @@ npm start
 
 El lloc s'obrirà a `http://localhost:3000`.
 
-## Desplegament a GitHub Pages (Gratis)
+## Desplegament a GitHub Pages
 
 1. **Puja el codi a GitHub** (repo públic)
 

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Bloc Text amb CTA
+# Text CTA
 
 El bloc **Text amb CTA** (Call To Action) afegeix un botó d'acció al text.
 

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Bloc Text
+# Text
 
 El bloc **Text** és el més bàsic per afegir contingut escrit.
 

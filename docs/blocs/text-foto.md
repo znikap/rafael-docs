@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Bloc Text + Foto
+# Text Photo
 
 El bloc **Text + Foto** mostra text al costat d'una imatge.
 

@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Bloc Process
+# Process
 
 El bloc **Process** mostra targetes amb passos o fases del teu treball.
 

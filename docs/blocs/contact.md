@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Bloc Contact Form
+# Contact Form
 
 El bloc **Contact Form** afegeix un formulari de contacte a la pàgina.
 
