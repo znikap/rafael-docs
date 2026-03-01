@@ -1,5 +1,7 @@
 # Documentació Rafael
 
+📖 **[Veure la documentació](https://znikap.github.io/rafael-docs/)**
+
 Documentació per al client del lloc web Rafael, creada amb [Docusaurus](https://docusaurus.io/).
 
 ## Configuració inicial
