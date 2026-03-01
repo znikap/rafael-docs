@@ -21,7 +21,7 @@ Aquest bloc no té camps configurables. El formulari es genera automàticament.
 
 ## On rebre els missatges
 
-Els missatges s'envien al correu configurat a **Social** > **Contact Email**.
+Els missatges s'envien al correu configurat a **Global Settings** > **Contact Email**.
 
 :::tip Configurar correu
 Assegura't de tenir un correu configurat a [Xarxes Socials](../continguts/xarxes) abans d'usar el formulari.

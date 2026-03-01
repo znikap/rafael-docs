@@ -2,13 +2,13 @@
 sidebar_position: 4
 ---
 
-# Categories (Typologies)
+# Categories (Services)
 
-Les **Typologies** són categories per organitzar els teus projectes.
+Les **Services** són categories per organitzar els teus projectes.
 
 ## Crear una categoria
 
-1. Al panell, ves a **Content Manager** > **Typologies**
+1. Al panell, ves a **Content Manager** > **Services**
 2. Clica **Create new entry**
 3. Omple els camps:
 
@@ -39,7 +39,7 @@ Un cop creada la categoria, pots vincular projectes de dues maneres:
 
 ### Des del projecte:
 1. Edita el projecte
-2. A la secció **Typologies**, selecciona les categories
+2. A la secció **Services**, selecciona les categories
 
 :::tip Consell
 És més pràctic assignar categories des de cada projecte individualment.

@@ -4,12 +4,12 @@ sidebar_position: 6
 
 # Xarxes Socials i Contacte
 
-La secció **Social** conté els teus enllaços de xarxes socials i correu de contacte.
+La secció **Global Settings** conté els teus enllaços de xarxes socials i correu de contacte.
 
 ## Accedir
 
 1. Al panell, ves a **Content Manager**
-2. A la secció **Single Types**, clica **Social**
+2. A la secció **Single Types**, clica **Global Settings**
 
 ## Camps disponibles
 
@@ -21,6 +21,7 @@ Pots afegir múltiples enllaços:
 2. Omple:
    - **Title** - Nom de la xarxa (ex: "Instagram", "LinkedIn")
    - **Link** - URL completa (ex: `https://instagram.com/elteuusuari`)
+   - **Label** - Text visible a la pàgina de contacte (ex: "ester.rafael"). Si no s'omple, es mostra el Title.
 
 3. Repeteix per cada xarxa social
 

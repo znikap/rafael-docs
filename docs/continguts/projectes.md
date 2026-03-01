@@ -44,14 +44,14 @@ Igual que les pàgines, pots afegir blocs a la secció **Content**:
 
 ## Assignar categories
 
-A la secció **Typologies** pots vincular el projecte a categories:
+A la secció **Services** pots vincular el projecte a categories:
 
-1. Clica el camp **Typologies**
+1. Clica el camp **Services**
 2. Selecciona una o més categories existents
 3. El projecte apareixerà filtrat per aquestes categories
 
 :::tip Consell
-Crea primer les categories a **Typologies** abans d'assignar-les als projectes.
+Crea primer les categories a **Services** abans d'assignar-les als projectes.
 :::
 
 ## Publicar el projecte
