@@ -18,6 +18,7 @@ Els **Projectes** són les peces del teu portafoli.
 | **Slug** | S'autogenera (URL del projecte) |
 | **Cover** | Imatge de portada del projecte |
 | **Description** | Descripció breu del projecte |
+| **Info Subtitle** | Text informatiu que apareix sota el títol al web (admet negreta, cursiva i hipervincles) |
 
 ## Secció "About" del projecte
 
@@ -41,6 +42,10 @@ Igual que les pàgines, pots afegir blocs a la secció **Content**:
 - **Text + Foto** - Imatge amb text
 - **Images** - Galeria d'imatges del projecte
 - **Contact Form** - Formulari (opcional)
+
+:::tip Info Subtitle
+Serveix per indicar contextos especials, com ara *"Projecte realitzat durant l'etapa en ..."*. Pots seleccionar text i afegir un hipervincle directament des de l'editor.
+:::
 
 ## Assignar categories
 
